@@ -28,6 +28,3 @@ vencimento de mensalidade
 confirmação de agendamento
 liberação de nova avaliação física
 
-## Diagrama de casos de uso:
-<img width="787" height="720" alt="image" src="https://github.com/user-attachments/assets/76feab1b-1016-4c88-bf63-411c84e11345" />
-
